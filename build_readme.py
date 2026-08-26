@@ -22,6 +22,13 @@ EXCLUDED_NAMES = {
     "img",
     "ml img.jpg",
     "download statistics.jpg",
+    "docs",
+    "utils",
+    "scripts",
+    "catboost_info",
+    "venv",
+    ".venv",
+    "env",
 }
 
 

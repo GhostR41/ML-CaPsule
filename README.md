@@ -674,7 +674,6 @@ Start with beginner-friendly projects, then move to intermediate and advanced on
 | [Bitcoin_Price_Prediction_Mobile_App](Bitcoin_Price_Prediction_Mobile_App) | 🟡 Intermediate | 3-6 hours |
 | [Brain Tumor Detection](Brain%20Tumor%20Detection) | 🟡 Intermediate | 3-6 hours |
 | [Breast Cancer Detection using DL with Webapp](Breast%20Cancer%20Detection%20using%20DL%20with%20Webapp) | 🟡 Intermediate | 3-6 hours |
-| [catboost_info](catboost_info) | 🟡 Intermediate | 3-6 hours |
 | [CBOW_PyTorch](CBOW_PyTorch) | 🟡 Intermediate | 3-6 hours |
 | [CBT_ChatBot](CBT_ChatBot) | 🟡 Intermediate | 3-6 hours |
 | [Chatbot Using RASA](Chatbot%20Using%20RASA) | 🟡 Intermediate | 3-6 hours |
@@ -723,7 +722,6 @@ Start with beginner-friendly projects, then move to intermediate and advanced on
 | [Different_types_of_scaling_Method](Different_types_of_scaling_Method) | 🟡 Intermediate | 3-6 hours |
 | [Digital Image Tampering Detection](Digital%20Image%20Tampering%20Detection) | 🟡 Intermediate | 3-6 hours |
 | [Diseases_Prediction](Diseases_Prediction) | 🟡 Intermediate | 3-6 hours |
-| [docs](docs) | 🟡 Intermediate | 3-6 hours |
 | [dog vs cat](dog%20vs%20cat) | 🟡 Intermediate | 3-6 hours |
 | [Driver_Drowsiness_Detection](Driver_Drowsiness_Detection) | 🟡 Intermediate | 3-6 hours |
 | [Duplicate_Question_pair](Duplicate_Question_pair) | 🟡 Intermediate | 3-6 hours |
@@ -899,7 +897,6 @@ Start with beginner-friendly projects, then move to intermediate and advanced on
 | [salary-prediction-using-RF](salary-prediction-using-RF) | 🟡 Intermediate | 3-6 hours |
 | [SalesProject](SalesProject) | 🟡 Intermediate | 3-6 hours |
 | [Scam_SMS_Detector](Scam_SMS_Detector) | 🟡 Intermediate | 3-6 hours |
-| [scripts](scripts) | 🟡 Intermediate | 3-6 hours |
 | [Sentiment analysis for depression based on social media posts](Sentiment%20analysis%20for%20depression%20based%20on%20social%20media%20posts) | 🟡 Intermediate | 3-6 hours |
 | [Sentiment-Analysis](Sentiment-Analysis) | 🟡 Intermediate | 3-6 hours |
 | [Sentiment-Analysis-on-IMDb-reviews](Sentiment-Analysis-on-IMDb-reviews) | 🟡 Intermediate | 3-6 hours |
@@ -944,7 +941,6 @@ Start with beginner-friendly projects, then move to intermediate and advanced on
 | [TweetMiner_AI](TweetMiner_AI) | 🟡 Intermediate | 3-6 hours |
 | [Tweets Classification](Tweets%20Classification) | 🟡 Intermediate | 3-6 hours |
 | [Unique Chatbot](Unique%20Chatbot) | 🟡 Intermediate | 3-6 hours |
-| [utils](utils) | 🟡 Intermediate | 3-6 hours |
 | [Various Plots using Matplot,Seaborn,Pandas](Various%20Plots%20using%20Matplot,Seaborn,Pandas) | 🟢 Beginner | 1-3 hours |
 | [Vehicles and Pedestrian Detection](Vehicles%20and%20Pedestrian%20Detection) | 🟡 Intermediate | 3-6 hours |
 | [Virtual Drag and Drop Using OpenCV](Virtual%20Drag%20and%20Drop%20Using%20OpenCV) | 🟠 Advanced | 6-12 hours |
